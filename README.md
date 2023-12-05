@@ -9,6 +9,15 @@
 3. **Multilayer Switch:** Connect multiple networks to a router via a multilayer switch.
 4. **Internet Connection:** Connect the router to a wireless router for internet access.
 
+
+<center>
+    <p>
+        <img src="https://github.com/Krish9575/campus_area_network/assets/107667057/7281d325-e6d5-4ffc-9c7a-152839df1f57" alt="image">
+    </p>
+</center>
+
+
+
 ### Configuration
 
 5. **Device Configuration:** Set up each device with IP addresses and default gateways.
